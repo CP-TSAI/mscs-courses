@@ -1,0 +1,10 @@
+name: rait_env
+channels:
+- menpo
+- defaults
+dependencies:
+- python=3.8
+- numpy
+- scipy
+- matplotlib
+- future
